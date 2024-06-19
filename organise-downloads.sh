@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 cd ~/Downloads
 mkdir -p Images Documents Videos PDFs Archives Others .sh-scripts
